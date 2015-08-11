@@ -1,0 +1,25 @@
+{
+  "name": "language-autotools",
+  "version": "1.0.0",
+  "description": "Autotools language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:evanlucas/language-autotools"
+  },
+  "keywords": [
+    "atom",
+    "language",
+    "autotools",
+    "automake",
+    "autoconf"
+  ],
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "bugs": {
+    "url": "https://github.com/evanlucas/language-autotools/issues"
+  },
+  "homepage": "https://github.com/evanlucas/language-autotools"
+}
