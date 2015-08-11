@@ -12,6 +12,10 @@ $ apm install language-autotools
 
 All credit goes to [ptomato](https://github.com/ptomato) for doing the dirty work.
 
+## TODO
+
+- Add tests
+
 ## Author
 
 Evan Lucas

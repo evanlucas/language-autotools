@@ -8,7 +8,7 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:evanlucas/language-autotools"
+    "url": "git://github.com/evanlucas/language-autotools"
   },
   "keywords": [
     "atom",
