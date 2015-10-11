@@ -1,4 +1,4 @@
-'.source.automake':
+'.source.automake,.source.m4':
   'editor':
     'autoIndentOnPaste': false
     'softTabs': true
